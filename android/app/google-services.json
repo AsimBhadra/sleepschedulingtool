@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "998661609122",
+    "firebase_url": "https://sleep-scheduling-tool.firebaseio.com",
+    "project_id": "sleep-scheduling-tool",
+    "storage_bucket": "sleep-scheduling-tool.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:998661609122:android:9ca3ffc078891697dfa9fb",
+        "android_client_info": {
+          "package_name": "com.nasaspaceapps.sleepscheduling"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "998661609122-pt7qapmhomtsh5cnud1911or88vg1t3k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUbO2AaIznMHXQjfx5dPSW1Y3QgR-ivZw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "998661609122-pt7qapmhomtsh5cnud1911or88vg1t3k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
